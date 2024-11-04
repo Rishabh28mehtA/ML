@@ -1,3 +1,4 @@
 # ML
 Learning ML
-Using online clean datasets to practice
+Using online clean datasets for practice
+Learning kool things everyday  
